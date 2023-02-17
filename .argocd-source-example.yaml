@@ -10,5 +10,5 @@ helm:
     value: ghostwritten/backend
     forcestring: true
   - name: backend.tag
-    value: main-951aa59
+    value: main-277b6e6
     forcestring: true
