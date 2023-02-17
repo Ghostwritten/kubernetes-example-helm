@@ -4,11 +4,11 @@ helm:
     value: ghostwritten/frontend
     forcestring: true
   - name: frontend.tag
-    value: main-5f218e9
+    value: main-951aa59
     forcestring: true
   - name: backend.image
     value: ghostwritten/backend
     forcestring: true
   - name: backend.tag
-    value: main-5f218e9
+    value: main-951aa59
     forcestring: true
