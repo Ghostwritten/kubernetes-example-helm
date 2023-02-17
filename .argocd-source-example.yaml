@@ -4,7 +4,7 @@ helm:
     value: ghostwritten/frontend
     forcestring: true
   - name: frontend.tag
-    value: main-951aa59
+    value: main-277b6e6
     forcestring: true
   - name: backend.image
     value: ghostwritten/backend
